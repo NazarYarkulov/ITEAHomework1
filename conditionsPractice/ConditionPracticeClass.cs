@@ -8,7 +8,11 @@ namespace conditionsPractice
         The method must return a boolean value, depending on whether the input parameter is even or odd*/
         public static bool IsEven(int number)
         {
-            throw new NotImplementedException();
+            if(number%2 == 0)
+            {
+                return true;
+            }
+            return false;
         }
 
         /* TODO: Receives a string as input and returns true if the string contains only unique characters, false otherwise. */
