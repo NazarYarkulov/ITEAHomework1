@@ -6,3 +6,10 @@ C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug
 C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.csproj.CoreCompileInputs.cache
 C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.exe
 C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.pdb
+D:\Repositories\ITEAHomework1\conditionsPractice\bin\Debug\conditionsPractice.exe.config
+D:\Repositories\ITEAHomework1\conditionsPractice\bin\Debug\conditionsPractice.exe
+D:\Repositories\ITEAHomework1\conditionsPractice\bin\Debug\conditionsPractice.pdb
+D:\Repositories\ITEAHomework1\conditionsPractice\obj\Debug\conditionsPractice.csproj.AssemblyReference.cache
+D:\Repositories\ITEAHomework1\conditionsPractice\obj\Debug\conditionsPractice.csproj.CoreCompileInputs.cache
+D:\Repositories\ITEAHomework1\conditionsPractice\obj\Debug\conditionsPractice.exe
+D:\Repositories\ITEAHomework1\conditionsPractice\obj\Debug\conditionsPractice.pdb
